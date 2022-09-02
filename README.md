@@ -24,8 +24,9 @@ Desenvolvedor Mobile utilizando Flutter, tendo conhecimentos básicos e utilizan
     <a href = "mailto:caio.andrade.1705@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/caio-andrade-3b668a1b4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
-   ![snake gif](https://github.com/Caio1705/Caio1705/blob/output/github-contribution-grid-snake.svg)
   </p>
+  <br>
+   ![snake gif](https://github.com/Caio1705/Caio1705/blob/output/github-contribution-grid-snake.svg)
 
 <details> 
 <summary>📃 Trajetória</summary>
@@ -62,6 +63,8 @@ Desenvolvedor Mobile utilizando Flutter, tendo conhecimentos básicos e utilizan
 📆 2021 - 2022\
 📍 **Universidade Federal de Mato Grosso** - Cuiabá, Brasil                                                                  
 
+  
+   ![snake gif](https://github.com/Caio1705/Caio1705/blob/output/github-contribution-grid-snake.svg)
 <details>   
 <summary>📃 English version </summary>
 <br>
