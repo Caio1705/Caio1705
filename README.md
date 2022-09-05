@@ -2,7 +2,7 @@
 Olá!! Eu sou Caio Andrade 😊
 </h1>
 <h2 align="center">
-Desenvolvedor Mobile utilizando Flutter, tendo conhecimentos básicos e utilizando MobX, em busca da minha primeira vaga :)
+Desenvolvedor Mobile utilizando Flutter e MobX, em busca da minha primeira vaga :)
 </h2>
 <div><br>
   <a href="https://github.com/Caio1705">
