@@ -3,6 +3,7 @@ Olá!! Eu sou Caio Andrade 😊
 </h1>
 <h2 align="center">
 Desenvolvedor Mobile Flutter/Dart, tendo conhecimentos básicos de pacotes nativos e externos, utilizando o Gerenciador de Estado MobX e iniciando estudos em APIs. Estou em busca da minha primeira vaga como desenvolvedor Jr. :).
+Sinta-se livre para me contratar!
 </h2>
 <div><br>
   <a href="https://github.com/Caio1705">
@@ -73,6 +74,7 @@ Hello!! I'm Caio Andrade 😊
 </h1>
 <h2 align="center">
 Mobile Flutter/Dart developer, having basic knowledge of native and external packages, using MobX State Manager and starting with APIs. I'm looking for my first job as a Jr. Developer. :)
+Feel free to hire me!
 </h2>
 <div><br>
   <a href="https://github.com/Caio1705">
