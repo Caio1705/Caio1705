@@ -20,6 +20,10 @@ Sinta-se livre para me contratar!
   
   ##
   
+  <p>Contato: caio.andrade.1705@gmail.com</p>
+  
+  ##
+  
   <div>
     <a href="https://www.instagram.com/ca.io.7/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://discordapp.com/users/506211628102975489/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
@@ -88,6 +92,10 @@ Feel free to hire me!
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 </div>
+  
+  ##
+  
+   <p>Contact: caio.andrade.1705@gmail.com</p>
   
   ##
   
