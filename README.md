@@ -2,7 +2,7 @@
 Olá!! Eu sou Caio Andrade 😊
 </h1>
 <h2 align="center">
-Desenvolvedor Mobile Flutter/Dart, tendo conhecimentos básicos de pacotes nativos e externos, utilizando o Gerenciador de Estado MobX e iniciando estudos em APIs. Estou em busca da minha primeira vaga como desenvolvedor Jr. :).
+Desenvolvedor Mobile Flutter/Dart, tendo conhecimentos básicos de pacotes nativos e externos, utilizando o Gerenciador de Estado MobX e iniciando estudos em APIs.
 Sinta-se livre para me contratar!
 </h2>
 <div><br>
